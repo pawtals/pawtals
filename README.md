@@ -50,4 +50,4 @@
   <img alt="Husky" src="https://img.shields.io/badge/-Husky-42B983?style=flat-square&logo=husky&logoColor=white" />
 </p>
 
-<img src="[https://mochacup.coffee](https://github.com/pawtals/pawtals/blob/main/arknights-endfield-ember-xaihi-4k-wallpaper-uhdpaper.com-311@5@c.png?raw=true)" alt="Profile banner">
+<img src="https://github.com/pawtals/pawtals/blob/main/arknights-endfield-ember-xaihi-4k-wallpaper-uhdpaper.com-311@5@c.png?raw=true" alt="Profile banner">
