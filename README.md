@@ -1,4 +1,4 @@
-<h1>PAWTALS / MOCHACUP</h1>
+<h1>MOCHACUP</h1>
 <p>
   I've been a developer for five years and I'm still not done with learning.
 </p>
