@@ -1,6 +1,6 @@
 <h1>MOCHACUP</h1>
 <p>
-  I've been a developer for five years and I'm still not done with learning.
+  I came and I took what I needed to know.
 </p>
 <h3>CONTACT</h3>
 <p>Email: <code>mochacup@mochacup.coffee</code></p>
