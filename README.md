@@ -3,8 +3,8 @@
   I came and I took what I needed to know.
 </p>
 <h3>CONTACT</h3>
-<p>Email: <code>mochacup@mochacup.coffee</code></p>
-<p>Discord: <code>pawtals</code></p>
+<p>Email: <code>amnextzed@gmail.com</code></p>
+<p>Discord: <code>velvetdawns</code></p>
 <h2>TECH STACK</h2>
 
 <h3>Frontend</h3>
